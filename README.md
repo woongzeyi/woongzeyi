@@ -11,5 +11,3 @@ Im a teenage developer that focuses on back-end development using Java/Kotlin an
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I started coding since 2018
 - ℹ️ Know me more on my [Linkedin account](https://www.linkedin.com/in/littlehillmyr/)
-
-![LittleHillMYR's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleHillMYR&count_private=true&show_icons=true&theme=dark)
