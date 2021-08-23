@@ -1,16 +1,15 @@
-### Hi there 👋
+# Howdy! 👋
 
-<!--
-**LittleHillMYR/LittleHillMYR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a teenage developer that focuses on back-end development using Java/Kotlin and Rust, and am recently interested in contributing to open-source projects to get real-world experiences.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a Discord voice lobby bot using Rust! 
+- 🌱 I’m currently learning Rust and Kotlin
+- 👯 I’m looking to collaborate on open-source projects
+- 🤔 I’m looking for help with learning Rust Rocket
+- 💬 Ask me about Kotlin Ktor!
+- 📫 Reach me through Discord! **LittleHillMYR#4837**
+- 😄 Pronouns: They/Them
+- ⚡ Fun fact: I started coding since 2018
+- ℹ️ Know me more on my [Linkedin account](https://www.linkedin.com/in/littlehillmyr/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![LittleHillMYR's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleHillMYR&count_private=true&show_icons=true&theme=dark)
