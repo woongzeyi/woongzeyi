@@ -10,7 +10,7 @@ Im a teenage developer that focuses on back-end development using Java/Kotlin an
 - 📫 Reach me through Discord! **LittleHillMYR#4837**
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I started coding since 2018
-- ℹ️ Know me more on my [Linkedin account](https://www.linkedin.com/in/littlehillmyr/)
+- ℹ️ Know me more on my [Linkedin account](https://www.linkedin.com/in/woongzeyi/)
 
 ![Ze Yi's GitHub stats](https://github-readme-stats.vercel.app/api?username=woongzeyi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woongzeyi&layout=compact)
