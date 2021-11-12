@@ -1,6 +1,6 @@
 # Howdy! 👋
 
-Im a teenage developer that focuses on back-end development using Rust and Python, and am recently interested in contributing to open-source projects to get real-world experiences.
+Im a teenage developer that focuses on back-end development using Kotlin, Rust and Python, and am recently interested in contributing to open-source projects to get real-world experiences.
 
 - 🔭 I’m currently working on an in-house competition system from my school
 - 🌱 I’m currently learning Python FastAPI and C/C++
