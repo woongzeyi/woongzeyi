@@ -1,12 +1,12 @@
 # Howdy! 👋
 
-Im a teenage developer that focuses on back-end development using Kotlin, Rust and Python, and am recently interested in contributing to open-source projects to get real-world experiences.
+Im a teenage developer that is trying to write embedded applications using C and Rust.
 
-- 🔭 I’m currently working on an in-house competition system from my school
-- 🌱 I’m currently learning Python FastAPI and C/C++
-- 👯 I’m looking to learn more cool stuff of backend and web development
-- 🤔 I’m looking for help with getting my hands on C/C++ standard library
-- 💬 Ask me about APIs!
+- 🔭 I’m currently working on another invention competition
+- 🌱 I’m currently learning embedded Rust
+- 👯 I’m looking to make something cool outof what Im learning now
+- 🤔 I’m looking for help with microcontroller structures and circuit designs
+- 💬 Ask me about nothing..
 - 📫 Reach me through Discord! **LittleHillMYR#4837**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started coding since 2018
